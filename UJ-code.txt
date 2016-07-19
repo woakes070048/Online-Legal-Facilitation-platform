@@ -1,0 +1,1096 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8" />
+    <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=320, height=device-height, target-densitydpi=medium-dpi" /> -->
+
+    <meta tag="description" content = "An open platform for everyone to discuss and enquire about all the law related queries. Be it business related or personal you get quick, useful and reliable advice in the form of answers only from lawyers and law students.A wonderful and unique platform for you to find your future lawyer/legal consultant and get your work done up and fast.
+It also serves a purpose for lawyers to connect with their future clients and get noticed for their work and achievements by their contemporaries.
+We also aim at providing the big exposure that students currently pursuing law deserve and we give them a platform to share their wisdom and learn from others and get noticed in the legal arena even before actually stepping into it." ">
+    
+    
+   
+
+      <meta property="og:url"           content="https://www.legistify.com/QnA/answer/" />
+      <meta property="og:type"          content="website" />
+      <meta property="og:title"         content="" />
+      <meta property="og:description"   content="" />
+      <meta property="og:image"         content="https://www.legistify.com/assets/img/about_bg.jpg" />
+
+
+
+
+    <base href="https://www.legistify.com/"></base>
+ <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/angular.min.js"></script>
+        <script src="assets/js/app.js"></script>
+
+    <title>Documents</title>
+    <link rel="icon" href="assets/img/favicon.ico" type="image/ico" sizes="16x16">
+    
+    <!-- Bootstrap Core CSS -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <!-- icons CSS -->
+    <link href="assets/css/socialIcons.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+
+    <link href="assets/css/hover.css" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="assets/js/sweetalert-master/dist/sweetalert.css">
+
+    <link type="text/css" href="assets/css/main.css" rel="stylesheet">
+
+    
+  
+    
+
+
+
+  
+
+    <!-- Custom Fonts -->
+    <link href="assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!-- <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css"> -->
+    <!-- <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css"> -->
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans" />
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link href="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/css/select2.min.css" rel="stylesheet" />
+
+    <!-- google analytics code -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-65297817-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+
+
+
+
+    
+   
+
+<!--     <script type="text/javascript">var switchTo5x=true;</script>
+    <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">stLight.options({publisher: "97faffbc-b7c0-4eaf-99e5-a6593db233c9", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>  -->   
+    <!--  -->
+
+  
+
+  <!--Start of Tawk.to Script-->
+  <script type="text/javascript">
+  var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+  (function(){
+  var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+  s1.async=true;
+  s1.src='https://embed.tawk.to/56dffa2c8619eaf4200dc573/default';
+  s1.charset='UTF-8';
+  s1.setAttribute('crossorigin','*');
+  s0.parentNode.insertBefore(s1,s0);
+  })();
+  </script>
+  <!--End of Tawk.to Script-->
+
+<!-- Begin Inspectlet Embed Code -->
+<script type="text/javascript" id="inspectletjs">
+window.__insp = window.__insp || [];
+__insp.push(['wid', 324230904]);
+(function() {
+function ldinsp(){if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
+setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent ? window.attachEvent('onload', ldinsp) : window.addEventListener('load', ldinsp, false)) : ldinsp();
+})();
+</script>
+<!-- End Inspectlet Embed Code -->
+
+
+<!--   <script type="text/javascript">var switchTo5x=true;</script>
+  <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+  <script type="text/javascript">stLight.options({publisher: "97faffbc-b7c0-4eaf-99e5-a6593db233c9", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script> -->
+
+
+
+    
+    
+
+    
+
+<!--     <script type="text/javascript">var switchTo5x=true;</script>
+    <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">stLight.options({publisher: "97faffbc-b7c0-4eaf-99e5-a6593db233c9", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>  -->   
+    <!--  -->
+
+  
+
+
+</head>
+        <!--End of Tawk.to Script-->
+
+<body ng-app="user" ng-controller="UserViews">
+<!--   <script type="text/javascript">var switchTo5x=true;</script>
+  <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+  <script type="text/javascript">stLight.options({publisher: "97faffbc-b7c0-4eaf-99e5-a6593db233c9", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script> -->
+<div class="modal fade bs-example-modal-sm" tabindex="-1" id="login-overlay" role="dialog" aria-labelledby="mySmallModalLabel" >
+  <div class="modal-dialog loginForm" >
+    <div class="modal-content ">
+          <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+              <h4 class="modal-title" id="myModalLabel" ng-show="login==0">Login With Legistify</h4>
+               <h4 class="modal-title" id="myModalLabel" ng-show="login==1">Sign Up With Legistify</h4>
+               <h4 class="modal-title" id="myModalLabel" ng-show="login==2">Reset Password</h4>
+          </div>
+          <div class="modal-body">
+              <div class="row">
+                  <div class="col-sm-6" ng-show="login==0 || login==2">
+                      <div class="well" >
+                          <form id="loginForm" novalidate>
+                              <div class="form-group">
+                                  <label for="username" class="control-label">Email</label>
+                                  <input type="text" class="form-control"  name="username1" title="Please enter you username" placeholder="example@gmail.com">
+                                  <span class="help-block"></span>
+                              </div>
+                              <div class="form-group">
+                                  <label for="password" class="control-label">Password</label>
+                                  <input type="password" class="form-control" id="password" name="password1"  title="Please enter your password">
+                                  <span class="help-block"></span>
+                              </div>
+                              <button id="loginbtn" class="btn btn-dark " style="width:100%">Login</button>
+                             <center> <img src="assets/img/loader.gif" id="img1" style="display:none"/ ></center>
+<div id="loginactive" style="display:none"><span style="color:red">We are verifying your Profile. You will receive a conformation soon. </span></div>
+                              <div id="loginErrorMsg" style="display:none"><span style="color:red">Wrong username or password</span></div>
+                              <div id="loginError" style="display:none"><span style="color:red">Account Not Activated<br>(Check Email Or Reset Password)</span></div>
+                              <div align="right" style="margin-top:2px"><a style="color:black;cursor:pointer;font-size:12px" id="forgetpassword" ng-click="change(2)" >Forgot Password?</a></div>
+                              <div align="center" style="margin-top:5px"><b>OR</b></div>
+                              <a href="https://www.facebook.com/v2.5/dialog/oauth?client_id=1651245151804892&state=8ffe50a19a77e1ae0bb34609555afa9c&response_type=code&sdk=php-sdk-5.1.2&redirect_uri=https%3A%2F%2Fwww.legistify.com%2Fuser%2Ffblogin&scope=email" class="btn btn-social-dark azm-facebook" ><i class="fa fa-facebook"></i> &nbsp;&nbsp;Log in with Facebook</a>
+                              <!-- <div align="center" style="margin-top:5px"><b>OR</b></div> -->
+                              <a href="https://accounts.google.com/o/oauth2/auth?response_type=code&redirect_uri=https%3A%2F%2Fwww.legistify.com%2Fuser%2Fgpluslogin&client_id=1053461526558-j8n4a08eqd1a8uk0ij5c13dhvgnepkd8.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&access_type=online&approval_prompt=auto" class="btn btn-social-dark azm-google-plus"><i class="fa fa-google-plus"></i>&nbsp;&nbsp; Sign in with Google+</a>
+                          </form>
+                      </div>                      
+                  </div>
+                  <div class="col-sm-6"  ng-show="login==0 && login!=2">
+                      <p class="lead">Register now for <span class="text-success">FREE</span></p>
+                      <ul class="list-unstyled" style="line-height: 2">
+                          <li><span class="fa fa-check "></span> Affordable & Quick Legal Docs.</li>
+                          <li><span class="fa fa-check "></span> Free Legal Resources.</li>
+                          <li><span class="fa fa-check "></span> Exhaustive Lawyer Listings.</li>
+                          <li><span class="fa fa-check "></span> One Stop Legal Solution.</li>
+                          <li><a href="https://www.legistify.com/About"><u>Read more</u></a></li>
+                      </ul>
+                      <p><a class="btn btn-dark " ng-click="change(1)" >Yes please, register now</a></p>
+                  </div>
+                  <div class="col-sm-6" ng-show="login==2" >
+                          <form id="forgetForm">
+                              <div class="form-group" >
+                                  <p>Please enter email-id to reset password</p>
+                                  <label for="username" class="control-label">Email-Id</label>
+                                  <input type="text" class="form-control"  name="emailid" placeholder="example@gmail.com">
+                              </div>
+                              <p><a class="btn btn-dark " id="submitForgetPassword">Submit</a></p>
+                              <center> <img src="assets/img/loader.gif" id="img2" style="display:none"/ ></center>
+                          </form><br>
+                          <p><a class="btn btn-dark " ng-click="change(1)">Register a new account</a></p>
+
+                  </div>
+
+                  <div class="col-sm-6 " ng-show="login==1" >
+                    <div class="well">
+                           <form id="formsignup" method="POST" enctype="multipart/form-data" validate>
+                             <div class="form-group">
+                            <label style="font-weight:bold;padding-left:0px">I am a &nbsp;</label>
+                            <select class="form-control" name="test" ng-model="drop">
+                            <option class="form-control" value="u" >User</option>
+                            <option class="form-control" value="l" >Lawyer</option>
+                            <option class="form-control" value="ca" >CA</option>
+                            <option class="form-control" value="cs" >CS</option>
+                            </select>
+                            </div>
+
+                              <div class="form-group">
+                                  <label for="Full Name" class="control-label">Full Name</label>
+                                  <input type="text" class="form-control"  name="fname"  title="Please enter you name" placeholder="Ravi" required>
+                                  <span class="help-block" style="display:none" id="fnameerror"><span style="color:red">This field is mandatory!</span></span>
+                                  <span class="help-block"></span>
+                              </div>
+                              <div class="form-group">
+                                  <label for="Mobile Number:" class="control-label">Mobile Number</label>
+                                  <input type="text" class="form-control"  name="numberss" title="Enter 10 Digit Mobile Number" placeholder="9876543210" pattern="[0-9]{10}" required>
+                                  
+                              </div>
+                              <div class="form-group">
+                                  <label for="username" class="control-label">Email</label>
+                                  <input type="email" class="form-control"  name="email" title="Please enter you email" placeholder="ravikumar007@gmail.com" required>
+                                  <span class="help-block" style="display:none" id="eerror"><span style="color:red">You are already registered.</span></span>
+                              </div>
+                              <div class="form-group">
+                                  <label for="password" class="control-label">Password</label>
+                                  <input type="password" class="form-control"  name="password" title="Please enter your password" required>
+                                  <span class="help-block" style="display:none" id="passworderror"><span style="color:red">Password can not be less than 6 characters.</span></span>
+                                  <span class="help-block"></span>
+                              </div>
+                             
+
+                            
+                            
+
+                              
+                              <button type="submit"  id="signupbtn" class="btn btn-dark ">Sign Up</button>
+                              <img src="assets/img/loader.gif" id="img" style="display:none"/ >
+
+                          </form>
+                          </div>
+                  </div>
+                  <div class="col-sm-6 " ng-show="login==1 && drop=='u'" style="text-transform:capitalize">
+                        <div style="margin-top:20%">
+                        <center>     <img src="https://www.legistify.com/assets/img/user.png" width="40%"></center><br>
+                        <ul class="list-unstyled" style="line-height: 2">
+                          <li><span class="fa fa-check "></span> Affordable & Quick Legal Docs.</li>
+                          <li><span class="fa fa-check "></span> Extensive Legal Resources.</li>
+                          <li><span class="fa fa-check "></span> Access to top notch experts.</li>
+                          <li><span class="fa fa-check "></span> One stop legal solutions.</li>
+<li><a href="https://www.legistify.com/About" target=_blank><u>Know more</u></a></li>
+                                                </ul>
+                      <br>
+                              Already have an account?<a href="#" ng-click="change(0)" > Sign in</a>
+
+                      <p></p>
+                     
+                  </div></div>
+                  <div class="col-sm-6 " ng-show="login==1 && drop=='ca'"  style="text-transform:capitalize">
+                        <div style="margin-top:20%">
+                        <center>     <img src="https://www.legistify.com/assets/img/ca.png" width="40%"></center><br>
+                        <ul class="list-unstyled" style="line-height: 2">
+                          <li><span class="fa fa-check "></span> Build Your Own Brand.</li>
+                          <li><span class="fa fa-check "></span> Connect with top clients.</li>
+                          <li><span class="fa fa-check "></span> Esclate your buisness Growth.</li>
+                           <li><a href="https://www.legistify.com/lawyers" target=_blank><u>Know more</u></a></li>
+                          
+                          
+                      </ul>
+                      <br>
+                              Already have an account?<a href="#" ng-click="change(0)" > Sign in</a>
+
+                      
+                     
+                  </div></div>
+                  <div class="col-sm-6 " ng-show="login==1 && drop=='l'"  style="text-transform:capitalize">
+                        <div style="margin-top:20%">
+                        <center>     <img src="https://www.legistify.com/assets/img/lawyer.png" width="40%"></center><br>
+                        <ul class="list-unstyled" style="line-height: 2">
+                          <li><span class="fa fa-check "></span> Establish Nationwide Presence.</li>
+                          <li><span class="fa fa-check "></span> Get More Leads.</li>
+                          <li><span class="fa fa-check "></span> Connect With Potential Clients.</li>
+                          <li><span class="fa fa-check "></span> Manage And Expand Buisness Better.</li>
+                          <li><a href="https://www.legistify.com/lawyers" target=_blank><u>Know more</u></a></li>
+                      </ul>
+                      <br>
+                              Already have an account?<a href="#" ng-click="change(0)" > Sign in</a>
+
+                     
+                  </div></div>
+                  <div class="col-sm-6 " ng-show="login==1 && drop=='cs'"  style="text-transform:capitalize">
+                        <div style="margin-top:20%">
+                        <center>     <img src="https://www.legistify.com/assets/img/cs.png" width="40%"></center><br>
+                        <ul class="list-unstyled" style="line-height: 2">
+                          <li><span class="fa fa-check "></span> Get nationwide exposure.</li>
+                          <li><span class="fa fa-check "></span> Help potential costumers.</li>
+                          <li><span class="fa fa-check "></span> Expand buisness and revenues.</li>
+                          <li><a href="https://www.legistify.com/lawyers" target=_blank><u>Know more</u></a></li>
+                      </ul>
+                      <br>
+                              Already have an account?<a href="#" ng-click="change(0)" > Sign in</a>
+
+                     
+                  </div>
+                    </div>
+              </div>
+          </div>
+      </div>
+  </div>
+<!-- </div>     -->
+
+<!-- Login modal over -->
+<!--Sign Up Modal  -->
+<!-- <div class="modal fade bs-example-modal-sm" tabindex="-1" id="signup-overlay" role="dialog" aria-labelledby="mySmallModalLabel"> -->
+  <div class="modal-dialog modal-lg signupForm" style="display:none">
+    <div class="modal-content ">
+          <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+         <a role="button" href="" class="btn btn-dark" aria-label="Left Align">
+        <span class="glyphicon glyphicon-arrow-left" aria-hidden="true"></span>
+        </a>&nbsp;&nbsp;<b>Sign Up here</b>
+          </div>
+          <div class="modal-body">
+              <div class="row">
+                  <div class="col-xs-12">
+                      <div class="well">
+                          <form id="formsignup" method="POST" enctype="multipart/form-data" >
+                              <div class="form-group">
+                                  <label for="firstname" class="control-label">First Name</label>
+                                  <input type="text" class="form-control"  name="fname"  title="Please enter you name" placeholder="Ravi" required>
+                                  <span class="help-block" style="display:none" id="fnameerror"><span style="color:red">This field is mandatory!</span></span>
+                                  <span class="help-block"></span>
+                              </div>
+                              <div class="form-group">
+                                  <label for="lastname" class="control-label">Last Name</label>
+                                  <input type="text" class="form-control"  name="lname" title="Please enter you last name" placeholder="Kumar" required>
+                                  <span class="help-block" style="display:none" id="lnameerror"><span style="color:red">This field is mandatory!</span></span>
+                                  <span class="help-block"></span>
+                              </div>
+                              <div class="form-group">
+                                  <label for="username" class="control-label">Username</label>
+                                  <input type="text" class="form-control"  name="username" title="Please enter you username" placeholder="kumarravi" required>
+                                  <span class="help-block" style="display:none;" id="uerror"><span style="color:red">Username not available</span></span>
+                              </div>
+                              <div class="form-group">
+                                  <label for="username" class="control-label">Email</label>
+                                  <input type="email" class="form-control"  name="email" title="Please enter you email" placeholder="ravikumar007@gmail.com" required>
+                                  <span class="help-block" style="display:none" id="eerror"><span style="color:red">You are already registered.</span></span>
+                              </div>
+                              <div class="form-group">
+                                  <label for="password" class="control-label">Password</label>
+                                  <input type="password" class="form-control"  name="password" title="Please enter your password" required>
+                                  <span class="help-block" style="display:none" id="passworderror"><span style="color:red">Password can not be less than 6 characters.</span></span>
+                                  <span class="help-block"></span>
+                              </div>
+
+<!--                               <div class="form-group">
+                                  <label for="pic" class="control-label">Upload Image(Max 2mb,Recommended dimensions 150*150)</label>
+                                  <input type="file" class="form-control"  name="pic" required>
+                                  <span class="help-block" style="display:none"><span style="color:red">Error in uploading. Please Try Again</span></span>
+                                  <span class="help-block"></span>
+                              </div> -->
+
+                            <div class="radio" style="text-align:left">
+                              <label style="font-weight:bold;padding-left:0px">I am a &nbsp;</label>
+                              <label><input type="radio" name="optradio" value="u" required>User</label>
+                              <label><input type="radio" name="optradio" value="s">Law Student</label>
+                              <span class="help-block" style="display:none" id="iamerror"><span style="color:red">This field is mandatory!</span></span>
+
+                            </div>
+
+                              
+                              <button type="submit"  id="signupbtn" class="btn btn-dark ">Sign Up</button>
+                              <img src="assets/img/loader.gif" id="img" style="display:none"/ >
+
+                          </form>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>  
+<!-- Sign Up modal over -->
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+<header>
+  <nav class="navbar navbar-custom" role="navigation">
+    <div class="container">
+
+      <div class="navbar-header">
+                <button class="navbar-toggle" data-target=".navbar-main-collapse" data-toggle="collapse" type="button">
+          <i class="fa fa-bars"></i>
+        </button> 
+        <a class="navbar-brand page-scroll" href="Legal/index">
+        <a class="light" href="#"> <img height="35" src="assets/img/logo.png" width="35"> </a>
+        &nbsp;&nbsp; 
+        <a class="light" href="#" style="color:white;">legistify</a>
+      </div><!-- nav-bar header END -->
+
+      <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+        
+        <ul class="nav navbar-nav">
+          <li class="hidden">- <a href="#page-top"></a> - </li>
+                      
+            <li> <a class="page-scroll" href="docs">MAKE AGREEMENTS</a> </li>
+           
+            <li> <a class="page-scroll" href="services">BUY SERVICES</a> </li>
+<li> <a class="page-scroll" href="lawyers">JOIN NETWORK</a> </li>
+
+            <li><button class="btn btn-default forlawyers" data-target="#login-overlay" data-toggle="modal"  style="margin-top:5px; margin-left:18px">LOGIN</button></li>
+                  </ul>
+        
+      </div>
+
+    </div>
+  </nav>
+</header><div style="margin-bottom:20px;"></div>
+
+<script type="text/javascript">
+      $(document).ready(function () {
+       $('[data-toggle="offcanvas"]').click(function () {
+        $('#wrapper').toggleClass('toggled');
+
+      }); 
+       $('[data-toggle="off"]').click(function () {
+        $('#bar').toggleClass('toggled');
+        $('#wrapper').toggleClass('toggled');
+        $('#wrapper2').toggleClass('toggled');
+        $('#main').toggleClass('toggled');
+      }); 
+
+
+       $(".dropdown-toggle").dropdown();
+     });
+   </script>
+
+<div class="modal fade bs-example-modal-sm" id="requestForDoc" role="dialog" aria-labelledby="mySmallModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content ">
+                  <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                      <h3 class="modal-title" id="myModalLabel" align="center">Looking For Something Else</h3>
+                      <h3 class="modal-title" id="myModalLabel" align="center">Get a quote for custom services as per your need</h3>
+
+                  </div>
+                  <div class="modal-body">
+                      <div class="row">
+                          <div class="col-xs-12">
+                              <div class="gray_back">
+                                  <form  method="POST" action="docs/requestdoc">
+                                      <div class="form-group">
+                                          <div class="col-md-2">
+                                            <label for="name" class="control-label">Name</label>
+                                          </div>
+                                          <div class="col-md-10">
+                                            <input type="text" name="name" class="form-control" required>
+                                            <span class="help-block" ></span>
+                                          </div>
+                                      </div>
+
+                                      <div class="form-group">
+                                          <div class="col-md-2">
+                                            <label for="email" class="control-label">Email</label>
+                                          </div>
+                                          <div class="col-md-10">
+                                            <input type="email" name="email" class="form-control" required>
+                                            <span class="help-block"></span>
+                                          </div>
+                                      </div>
+
+                                      <div class="form-group">
+                                          <div class="col-md-2">
+                                            <label for="" class="control-label">Phone number</label>
+                                          </div>
+                                          <div class="col-md-10">
+                                            <input type="text" name="phone" class="form-control" required>
+                                            <span class="help-block"></span>
+                                          </div>
+                                      </div>
+
+                                      <div class="form-group">
+                                          <div class="col-md-2">
+                                            <label for="nameofarg" class="control-label">Agreement</label>
+                                          </div>
+                                          <div class="col-md-10">
+                                            <input type="text" name="nameofarg" class="form-control" required>
+                                            <span class="help-block"></span>
+                                          </div>
+                                      </div>
+
+
+                                      <div class="form-group">
+                                          <div class="col-md-2">
+                                            <label for="comments" class="control-label">Comments</label>
+                                          </div>
+                                          <div class="col-md-10">
+                                            <textarea name="comments" class="form-control" rows="5" ></textarea>
+                                            <span class="help-block"></span>
+                                          </div>
+                                      </div>
+                                       
+                                      <div class="col-md-5 col-md-offset-5"> 
+                                       <button type="submit" class="btn btn-dark">PLACE REQUEST</button>
+                                      </div> 
+
+                                  </form>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+        </div><style>
+
+
+    .scrollbar
+    {
+      
+        float: right;
+       
+             
+        
+        margin-bottom: 25px;
+    }
+    .test2{
+    
+    }
+
+    .force-overflow
+    {
+        min-height: 450px;
+    }
+    .type_col3{
+       display: inline-block;
+
+       vertical-align: top;
+       width:300px;
+       min-width: 32%;
+       max-width:100%;
+
+   }
+   .agreement_cont{
+       padding: 10px;
+       cursor: pointer;
+   }
+   .agreement_cont:hover{
+       background-color: rgba(0,0,0,0.05);
+   }
+
+.create:hover{
+       background-color: rgba(1,0,0,0.05);
+   }
+   
+   
+
+   .agreement_head{
+       font-weight: 700;
+   }
+   .agreement_descr{
+       font-size: 0.7em;
+   }
+   .category_cont{
+       padding: 15px;
+       cursor: pointer;
+   }
+   .category_cont:hover{
+       background-color: rgba(0,0,0,0.2);
+   }
+
+   .category_icon{
+       width: 25px;
+   }
+   .category_head{
+       display: inline-block;
+       vertical-align: top;
+       line-height: 25px;
+   }
+   
+   .agreements_category_icon{
+       display: inline-block;
+       width: 60px;
+       margin-right: 10px;
+   }
+   .agreements_category{
+       color: black;
+       display: inline-block;
+       vertical-align: bottom;
+   }
+   .agreements_cont{
+       border-right: 1px solid #999;
+       overflow-y: auto; 
+   }
+   #might_need{
+       font-size: 0.8em;
+   }
+   
+   .frleft {
+    float: right;
+    margin: 10px 0;
+}
+.right_col>div{
+    margin: 10px 0;
+}
+#style-4::-webkit-scrollbar-track
+{
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  background-color: #F5F5F5;
+}
+
+#style-4::-webkit-scrollbar
+{
+  width: 5px;
+  background-color: #232C3C;
+}
+
+#style-4::-webkit-scrollbar-thumb
+{
+  background-color: #000000;
+  border: 2px solid #555555;
+}
+
+.test {
+   overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-box-orient: vertical;
+   -webkit-line-clamp: N; /* number of lines to show */
+   line-height: 1.3em;        /* fallback */
+   height: 3.9em;       /* fallback */
+}
+.test1{
+      display: none;
+    }
+     .test2{
+      display: inline-block;
+    }
+
+@media screen and (max-width: 992px){
+    .frleft {
+        clear: both;
+        float: left;
+    }
+    .test2{
+      display: none;
+    }
+    .test1{
+      display: inline-block;
+    }
+}
+</style>
+<script type="text/javascript">
+  app.controller('Categories',function($scope,$http,$interval){
+
+    $scope.data ="Manage Employees";
+    $scope.sub="Hire";
+    $scope.all=[];  
+    $scope.subshow=0;        
+
+
+    $http.get("https://www.legistify.com/docs/getsub").success(function(response){
+      $scope.all=(response);
+    });
+    $scope.subss=function($response){
+      $scope.sub=$response;
+      $scope.subshow=1;
+
+    }
+    $scope.setdata=function($response){
+      $scope.subshow=1;
+      $scope.data=$response;
+      flag=0;
+      angular.forEach($scope.all, function(value, key) {                 
+        if(value[0]==$response && flag==0)
+        {
+          $scope.sub=value[1];
+
+          flag=1;
+        }
+      });
+    }
+  });
+
+
+</script>
+
+
+<section id="alldocs" class="container text-left" ng-controller="Categories" ng-app="user">  
+
+<div class="row" style="padding-left:30px">
+      <form class="searchbox" >
+        <input type="text" name="search" placeholder="Eg- Rent Agreement" class="searchbox-input">
+        <span class="searchbox-icon"><span class="glyphicon glyphicon-search changeColor" aria-hidden="true" style="color:white"></span></span>
+        <div id="show_found"></div>
+      </form>
+    </div>
+
+    <div class="fil_head" align="left" style="margin-top: 20px;">
+        <div class="col-md-12">
+            <div style="float:left">
+                <h2 style="color:black;">Select A Process</h2>
+            </div>
+            
+            <hr style="clear:both;border-width:3px">
+        </div>
+    </div>
+    <div id="categories_cont" style="font-size:1.3em">
+                   <div  class="type_col3 category_cont majorfocus" ng-click="setdata('Buy-Sell Or Lease')"> <img class="category_icon" src="assets/img/all_categories/Buy-Sell Or Lease.png"> <div class="category_head">Buy-Sell Or Lease
+           </div> 
+   
+       </div>                    <div  class="type_col3 category_cont majorfocus" ng-click="setdata('Draft Power Of Attorney')"> <img class="category_icon" src="assets/img/all_categories/Draft Power Of Attorney.png"> <div class="category_head">Draft Power Of Attorney
+           </div> 
+   
+       </div>                    <div  class="type_col3 category_cont majorfocus" ng-click="setdata('Get A NOC')"> <img class="category_icon" src="assets/img/all_categories/Get A NOC.png"> <div class="category_head">Get A NOC
+           </div> 
+   
+       </div>                    <div  class="type_col3 category_cont majorfocus" ng-click="setdata('Lend-Receive Money')"> <img class="category_icon" src="assets/img/all_categories/Lend-Receive Money.png"> <div class="category_head">Lend-Receive Money
+           </div> 
+   
+       </div>                    <div  class="type_col3 category_cont majorfocus" ng-click="setdata('Manage Employees')"> <img class="category_icon" src="assets/img/all_categories/Manage Employees.png"> <div class="category_head">Manage Employees
+           </div> 
+   
+       </div>                    <div  class="type_col3 category_cont majorfocus" ng-click="setdata('Protect Your Pet')"> <img class="category_icon" src="assets/img/all_categories/Protect Your Pet.png"> <div class="category_head">Protect Your Pet
+           </div> 
+   
+       </div>                    <div  class="type_col3 category_cont majorfocus" ng-click="setdata('Rent A Property')"> <img class="category_icon" src="assets/img/all_categories/Rent A Property.png"> <div class="category_head">Rent A Property
+           </div> 
+   
+       </div>                    <div  class="type_col3 category_cont majorfocus" ng-click="setdata('Run A Website')"> <img class="category_icon" src="assets/img/all_categories/Run A Website.png"> <div class="category_head">Run A Website
+           </div> 
+   
+       </div>                    <div  class="type_col3 category_cont majorfocus" ng-click="setdata('Send Legal Notices')"> <img class="category_icon" src="assets/img/all_categories/Send Legal Notices.png"> <div class="category_head">Send Legal Notices
+           </div> 
+   
+       </div>                    <div  class="type_col3 category_cont majorfocus" ng-click="setdata('Settle Disputes')"> <img class="category_icon" src="assets/img/all_categories/Settle Disputes.png"> <div class="category_head">Settle Disputes
+           </div> 
+   
+       </div>                    <div  class="type_col3 category_cont majorfocus" ng-click="setdata('Start A Business')"> <img class="category_icon" src="assets/img/all_categories/Start A Business.png"> <div class="category_head">Start A Business
+           </div> 
+   
+       </div>                    <div  class="type_col3 category_cont majorfocus" ng-click="setdata('Startup')"> <img class="category_icon" src="assets/img/all_categories/Startup.png"> <div class="category_head">Startup
+           </div> 
+   
+       </div>         
+       
+<div ng-show="subshow==1">
+
+       <div style="height: 50vh;"></div>
+
+   
+    <div class="row" align="left" id="focus" style="padding-top:0px" >         <div class="col-md-12" >
+            <img class="agreements_category_icon" src="assets/img/all_categories/{{data}}.png">
+            <h2 class="agreements_category">{{data}}</h2>
+            <hr style="clear:both;border-width:3px">
+        </div>
+    </div>
+    <div class="row" style="font-size:1.3em">
+        
+            <div class="col-sm-3 test1" ng-repeat="x in all" ng-if="x[0]==data" style="font-size:.7em">
+                <div class="agreement_cont" style="padding:10;margin:0;  background-color:rgba(0,0,0,0.1)" ng-click="subss(x[1])" ng-if="x[0]==data && x[1]==sub">{{x[1]}}</div>      
+                <div class="agreement_cont" style="padding:10;margin:0; " ng-click="subss(x[1])" ng-if="x[0]==data && x[1]!=sub">{{x[1]}}</div>        
+            </div>
+       
+            
+        <div class="col-sm-2 test2">
+            <div class="col-md-12" style="margin-top: 0;padding:10px;"><b>Categories</b></div>
+            <div id="might_need" class="right_col" ng-repeat="x in all">
+                <div class="col-md-12 agreement_cont" style="padding:10;margin:0; padding-right:0; background-color:rgba(0,0,0,0.1)" ng-click="subss(x[1])" ng-if="x[0]==data && x[1]==sub">{{x[1]}}</div>      
+                <div class="col-md-12 agreement_cont" style="padding:10;margin:0;padding-right:0 " ng-click="subss(x[1])" ng-if="x[0]==data && x[1]!=sub">{{x[1]}}</div>        
+            </div>
+        </div>
+        <div class="col-sm-10 scrollbar test2" id="style-4">
+            <div  ng-repeat="x in all" ng-if="sub==x[1] && data==x[0]">    
+            <div class="row agreement_cont " ng-repeat="y in x[2]" >  <div class="col-sm-9">
+                         <a ng-href="docs/overview/{{y[0]}}" style="color:#000000"><div class="agreement_head caps" style="font-size:0.8em"> {{y[1]}}      
+                         </div>
+                         <div  ng-if="sub==x[1] && data==x[0]" style="font-size:0.9em"><div class="agreement_descr test" > {{y[2]}} </div>    </div>      </div>  </a>    <div class="col-sm-3">
+                           <div class="row ">
+                           <div class="col-sm-6" style="margin-top:25px; padding-right:0">
+                            <span ng-if="y[3]==0" class="label label-success" style=" font-size: 12px;  ">Free</span><span ng-if="y[3]!=0"></span>
+                            <span ng-if="y[3]!=0" ><i class="fa fa-inr" style="font-size:21px; padding-right:0" ></i> {{y[3]}}</span>
+                           </div>
+                            <div class="col-sm-6" style="margin-top:25px; padding:0"><a ng-href="docs/overview/{{y[0]}}" style="color:#000000"><i class="fa fa-pencil" style="font-size:21px;" ></i> <span style="font-size:21px;" > Create</span></div>
+
+                           </div>
+
+
+                         </div>
+              
+            </div></div>
+        </div>
+        <div class="col-sm-12 scrollbar test1" id="style-4">
+            <div class="" ng-repeat="x in all" ng-if="sub==x[1] && data==x[0]">    
+            <div ng-repeat="y in x[2]" class="agreement_cont">  
+                         <a ng-href="docs/overview/{{y[0]}}" style="color:#000000"><div class="agreement_head"> {{y[1]}}      
+                         <span ng-if="y[3]==0" class="label label-success" style="margin-top:0px; font-size: 10px; margin-left: 5px; ">Free Doc</span></div>
+                         <div  ng-if="sub==x[1] && data==x[0]" style="font-size:0.9em"><div class="agreement_descr test" > {{y[2]}} </div>    </div>      </div>  </a>    
+              
+            </div>
+        </div>
+    </div>
+
+ <div style="height: 60vh;" class="test2"></div>
+</div>
+       
+</section>
+<div class="modal fade bs-example-modal-sm" id="requestForDoc" role="dialog" aria-labelledby="mySmallModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content ">
+                  <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                      <h3 class="modal-title" id="myModalLabel" align="center">Request For Document</h3>
+                      <h3 class="modal-title" id="myModalLabel" align="center">( Get a quote for the agreements not in the list )</h3>
+
+                  </div>
+                  <div class="modal-body">
+                      <div class="row">
+                          <div class="col-xs-12">
+                              <div class="gray_back">
+                                  <form  method="POST" action="docs/requestdoc">
+                                      <div class="form-group">
+                                          <div class="col-md-2">
+                                            <label for="name" class="control-label">Name</label>
+                                          </div>
+                                          <div class="col-md-10">
+                                            <input type="text" name="name" class="form-control" required>
+                                            <span class="help-block" ></span>
+                                          </div>
+                                      </div>
+
+                                      <div class="form-group">
+                                          <div class="col-md-2">
+                                            <label for="email" class="control-label">Email</label>
+                                          </div>
+                                          <div class="col-md-10">
+                                            <input type="email" name="email" class="form-control" required>
+                                            <span class="help-block"></span>
+                                          </div>
+                                      </div>
+
+                                      <div class="form-group">
+                                          <div class="col-md-2">
+                                            <label for="" class="control-label">Phone number</label>
+                                          </div>
+                                          <div class="col-md-10">
+                                            <input type="text" name="phone" class="form-control" required>
+                                            <span class="help-block"></span>
+                                          </div>
+                                      </div>
+
+                                      <div class="form-group">
+                                          <div class="col-md-2">
+                                            <label for="nameofarg" class="control-label">Agreement</label>
+                                          </div>
+                                          <div class="col-md-10">
+                                            <input type="text" name="nameofarg" class="form-control" required>
+                                            <span class="help-block"></span>
+                                          </div>
+                                      </div>
+
+
+                                      <div class="form-group">
+                                          <div class="col-md-2">
+                                            <label for="comments" class="control-label">Comments</label>
+                                          </div>
+                                          <div class="col-md-10">
+                                            <textarea name="comments" class="form-control" rows="5" ></textarea>
+                                            <span class="help-block"></span>
+                                          </div>
+                                      </div>
+                                       
+                                      <div class="col-md-5 col-md-offset-5"> 
+                                       <button type="submit" class="btn btn-dark">GET A QUOTE</button>
+                                      </div> 
+
+                                  </form>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+        </div>
+
+
+<script type="text/javascript">
+  $(document).ready(function() {
+  $(".majorfocus").click(function(){
+    $('html,body').animate({
+        scrollTop: $("#focus").offset().top},
+        'slow');
+});
+  jQuery('agreement_cont').click(function(){
+   jQuery(this).toggleClass('active');
+});
+  
+});
+</script>  
+<footer >
+        <div class="myfooter">
+        <div class="footer-section container content-section text-left" >
+            <div class="footer_align row" style="padding-left:0px;margin-top:-50px">
+                <div class="footer_content" >
+                    <h2 style="margin-bottom:0px">legistify <span style="font-size: 18px;">&trade;</span></h2>
+                    <ul style="list-style-type:none; text-decoration: none;display:inline">
+                        <li> B-37, Ground floor, Polyplex Tower-B, Sector-1, Noida.</li>
+                        <li><b>Email:</b> contact@legistify.com</li>
+                        <li><b>Contact:</b> +91-9024456014, +91-9468707611, +911206450116</li> 
+                        <li><br/></li>
+                    </ul>
+                    <button onclick="window.open('https://www.facebook.com/legistify/')" class="btn btn-social azm-facebook" ><i class="fa fa-facebook"></i></button>
+                    <button onclick="window.open('https://plus.google.com/+getlegalIn/posts')" class="btn btn-social azm-google-plus"><i class="fa fa-google-plus"></i></button>
+                    <button onclick="window.open('https://twitter.com/legistify')" class="btn btn-social azm-twitter"><i class="fa fa-twitter"></i></button>
+                    <button onclick="window.open('https://www.linkedin.com/company/get-legal')" class="btn btn-social azm-linkedin"><i class="fa fa-linkedin"></i></button>
+                    <button onclick="window.open('http://www.slideshare.net/getlegalindia')" class="btn btn-social azm-slideshare"><i class="fa fa-slideshare"></i></button>
+                    <button onclick="window.open('https://www.youtube.com/channel/UCptmcyORHDdnizMRuKJBgFQ')" class="btn btn-social azm-youtube "><i class="fa fa-youtube"></i></button>
+                </div>
+
+                <!--  -->
+                <div style="display:block;clear:both;">
+                    <div class="footer_link_cont">
+                        <h4>Know Us</h4>
+                        <div class="links_collapse">
+                            <ul>
+                                <li><a href="about">About Us</a></li>
+                                <li><a href="careers">Join Us</a></li>
+                                <li><a href="contact">Contact Us</a></li>                                
+                                <li><a href="price/#FAQ">FAQs</a></li>                                
+                                <li><a href="site">Site Map</a></li>
+                            </ul>
+                        </div>
+                        <div class="show_foot_links">Show More</div>
+                    </div>
+                     <div class="footer_link_cont">
+                        <h4>Quick Links</h4>
+                        <div class="links_collapse">
+                            <ul>
+                                <li><a href="docs">Agreements</a></li>
+                                <li><a href="services">Services</a></li>                               
+                                
+                                <li><a href="price">Membership Plans</a></li>
+                                <li><a href="lawyerDir">Lawyer Directory</a></li>                                
+                            </ul>
+                        </div>
+                        <div class="show_foot_links">Show More</div>
+                    </div>
+                     
+
+                    <div class="footer_link_cont">
+                        <h4>Popular Docs</h4>
+                        <div class="links_collapse">
+                          <ul>
+                            <li><a href="docs/overview/id157">Non-Disclosure</a></li>
+                            <li><a href="docs/overview/id240">Rent Agreement</a></li>
+                            <li><a href="docs/overview/id134">Loan Agreement</a></li>
+                            <li><a href="docs/overview/id125">Lease Agreement</a></li>
+                            <li><a href="docs/overview/id190">Pet Care</a></li>
+                            <li><a href="docs/overview/id257">Sale Deed</a></li>
+                                                   
+                            <li><a href="docs/overview/id101">Eviction Notice</a></li>
+                            <li><a href="docs/overview/id124">Late Rent Notice</a></li>
+                          </ul>                      
+                        </div>
+                        <div class="show_foot_links">Show More</div>
+                     </div>
+
+                    <div class="footer_link_cont">
+                        <h4>Legal Resources</h4>
+                        <div class="links_collapse">
+                          <ul>
+                            <li><a href="QnA" style="cursor:pointer">Q&A</a></li>
+                            <li><a href="blogs" style="cursor:pointer">Blogs</a></li>
+                            <li><a href="glossary" style="cursor:pointer">Glossary</a></li>
+                            <!-- <li><a data-toggle="modal" data-target="#myModal" style="cursor:pointer">Bare Acts</a></li> -->
+
+                          </ul>                      
+                        </div>
+                        <!-- <div class="show_foot_links">Show More</div> -->
+                    </div>
+
+
+                    <div class="footer_link_cont">
+                        <h4>Our Services</h4>
+                        <div class="links_collapse">
+                          <ul>
+                            <li><a href="services/">Pvt Ltd </a></li>
+                            <li><a href="services/">LLP</a></li>
+                            <li><a href="services/">OPC</a></li>
+                            <li><a href="services/">Partnership</a></li>
+                            <li><a href="services/">TM Reg</a></li>
+                            <li><a href="services/">TM Objection</a></li>
+                            <li><a href="services/">TM Renewal</a></li>
+                            <li><a href="services/">DSC</a></li>
+                            <li><a href="services/">DIN</a></li>
+                            <li><a href="services/">Company PAN</a></li>
+                            <li><a href="services/">Company TAN</a></li>
+                          </ul>                      
+                        </div>
+                        <div class="show_foot_links">Show More</div>
+                    </div>
+                    <div class="footer_link_cont">
+                        <h4>Service Providers</h4>
+                        <div class="links_collapse">
+                            <ul>
+                                
+                                <li><a href="lawyers">Join Network</a></li>
+                                </ul>
+                        </div>
+                        
+                    </div>
+
+
+
+                </div>
+                <!-- ****** -->
+
+            </div>  
+        </div>
+        <HR WIDTH="100%" style="border-color:#F2F2F2" >
+        <div class="footer-section container text-left" >   
+            <div style="margin-bottom: 15px;font-size:15px">
+                <div class="inline_mar-right">
+                    <a href="terms">Terms And Conditions</a>
+                </div>
+                <div class="inline_mar-right">
+                    <a href="disclaimer">Legal Disclaimer</a>
+                </div>
+                <div class="inline_mar-right">
+                    <a href="privacy">Privacy Policy</a>
+                </div>                
+                <div class="inline_mar-right" style="float:right">© Legistify 2016</div> 
+            </div>
+
+        </div>
+        </div>
+    </footer>    <!-- Footer -->
+      
+                    
+                
+    <!-- jQuery -->
+     <script src="assets/js/jquery.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+     <script src="assets/js/bootstrap.min.js"></script>
+    <!-- Plugin JavaScript -->
+     <script src="assets/js/jquery.easing.min.js"></script>
+    <!-- Custom Theme JavaScript -->
+     <script src="assets/js/grayscale.js"></script>
+     <!-- plugin for select2 -->
+     <script src="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/js/select2.min.js"></script>
+     <script src="assets/js/hover.js"></script>
+     <script src="assets/js/services.js"></script>
+     <script src="assets/js/login.js"></script>
+     <script src="assets/js/fuzzy.js"></script>
+     <script src="assets/js/sweetalert-master/dist/sweetalert.min.js"></script> 
+
+
+
+<script src="assets/js/categories.js" ></script>   
+    <script>
+        $(document).ready(function(){
+            $('[data-toggle="tooltip"]').tooltip(); 
+            $('.show_foot_links').click(function(){
+                var col = $(this).parent().find('.links_collapse');
+                if(col.hasClass('links_show')){
+                    col.removeClass('links_show');
+                    $(this).text('Show More');
+                }
+                else{
+                    col.addClass('links_show');
+                    $(this).text('Show Less');
+                }
+            });
+        });
+    </script>  
+
+
+
+   
+
+
+</body>
+</html>
